@@ -37,5 +37,4 @@ This project introduces a nation-scale, Tier-1 level threat model that could und
 ## ✉️ Contact
 
 Feel free to reach out for collaboration, suggestions, or review at:  
-**Email:** [your email here]  
-**LinkedIn:** [your profile link]
+**Email:** 	sidhantnegi68@gmail.com
